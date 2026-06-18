@@ -19,4 +19,4 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Hello, World!
+Hello, GitHub World!
