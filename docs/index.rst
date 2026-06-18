@@ -19,4 +19,4 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Hello, GitHub Pages & GitHub Actions World!
+Hello, GitHub Pages & GitHub Actions Beautiful World!
