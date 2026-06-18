@@ -19,4 +19,4 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Hello, GitHub Pages & GitHub Actions & Sphinx Beautiful World!
+Hello, GitHub Pages & GitHub Actions & Sphinx & without Docker Beautiful World!
