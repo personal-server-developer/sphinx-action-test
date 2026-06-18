@@ -22,7 +22,8 @@ jobs:
         build-command: "sphinx-build -b html . _build"
         docs-folder: "docs2/"
     # Grabbing custom dependencies and building as a pdf.
-
+    #   deleted.
+    
     # Great extra actions to compose with:
     # Create an artifact of the html output.
     - uses: actions/upload-artifact@v4
